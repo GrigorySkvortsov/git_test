@@ -1,1 +1,1 @@
-https://thumbs-prod.si-cdn.com/D_ZGYkQOmfyvUF7en_b-QZn6RAM=/800x600/filters:no_upscale()/https://public-media.smithsonianmag.com/filer/82/75/82755cbf-1ceb-411b-babf-5440b7640aeb/file-20180409-114128-112q9ri.jpg
+
