@@ -1,2 +1,2 @@
 print("My first Git program")
-print('ffs')
+print('ff1s')
